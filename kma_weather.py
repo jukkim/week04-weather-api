@@ -1,4 +1,5 @@
 # kma_weather.py
+# 변경
 import requests
 from datetime import datetime
 
